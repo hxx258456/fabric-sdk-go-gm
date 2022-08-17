@@ -8,10 +8,10 @@ require (
 	github.com/go-kit/kit v0.12.0
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
-	github.com/hxx258456/ccgo v0.0.1
-	github.com/hxx258456/cfssl-gm v0.0.1
-	github.com/hxx258456/fabric-config-gm v0.0.1
-	github.com/hxx258456/fabric-protos-go-gm v0.0.1
+	github.com/hxx258456/ccgo v0.0.3
+	github.com/hxx258456/cfssl-gm v0.0.2
+	github.com/hxx258456/fabric-config-gm v0.0.2
+	github.com/hxx258456/fabric-protos-go-gm v0.0.2
 	github.com/miekg/pkcs11 v1.1.1
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/pkg/errors v0.9.1
@@ -62,8 +62,6 @@ require (
 	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mattn/go-runewidth v0.0.12 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
@@ -76,7 +74,6 @@ require (
 	github.com/prometheus/common v0.34.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
-	github.com/rs/zerolog v1.27.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/soheilhy/cmux v0.1.5 // indirect
